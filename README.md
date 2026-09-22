@@ -13,7 +13,7 @@ A collection of data analytics projects demonstrating skills across SQL, Microso
 | [🏫 School Management Database](./school-management-database) | MySQL | 5-table relational database for a Nigerian school, with performance and staffing queries |
 | [📊 Workforce & Compensation Dashboard](./workforce-compensation-dashboard) | Power BI · DAX | 3-page dashboard analyzing headcount, pay, and performance for 1,000+ employees |
 
-Each project folder has its own README with the full write-up — objectives, dataset, tools, key insights, and how to explore it.
+Each project has its own README with the full write-up — objectives, dataset, tools, key insights, and how to explore it.
 
 ---
 
