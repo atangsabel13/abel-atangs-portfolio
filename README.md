@@ -8,10 +8,10 @@ A collection of data analytics projects demonstrating skills across SQL, Microso
 
 | Project | Tools | Description |
 |---|---|---|
-| [☕ Coffee Shop Sales Dashboard](./coffee-shop-sales-dashboard) | Excel · PivotTables · PivotCharts | Interactive dashboard analyzing 149K+ transactions across a 3-location coffee shop chain |
-| [🍽️ Restaurant Orders](./restaurant-orders-sql) | MySQL | Menu and order-level analysis of a restaurant's Q1 2023 sales |
-| [🏫 School Management Database](./school-management-database) | MySQL | 5-table relational database for a Nigerian school, with performance and staffing queries |
-| [📊 Workforce & Compensation Dashboard](./workforce-compensation-dashboard) | Power BI · DAX | 3-page dashboard analyzing headcount, pay, and performance for 1,000+ employees |
+| [☕ Coffee Shop Analytics](https://github.com/atangsabel13/coffee-shop-analytics) | Excel · PivotTables · PivotCharts | Interactive dashboard analyzing 149K+ transactions across a 3-location coffee shop chain |
+| [🍽️ Restaurant Orders Analysis](https://github.com/atangsabel13/restaurant-order-analysis) | MySQL | Menu and order-level analysis of a restaurant's Q1 2023 sales |
+| [🏫 School Management Database](https://github.com/atangsabel13/school-management-database) | MySQL | 5-table relational database for a Nigerian school, with performance and staffing queries |
+| [📊 Company Analytics Dashboard](https://github.com/atangsabel13/company-analytics-project) | Power BI · DAX | 3-page dashboard analyzing headcount, pay, and performance for 1,000+ employees |
 
 Each project folder has its own README with the full write-up — objectives, dataset, tools, key insights, and how to explore it.
 
